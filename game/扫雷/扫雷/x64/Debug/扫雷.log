@@ -1,0 +1,3 @@
+﻿  game.c
+D:\c语言代码程序\game\扫雷\扫雷\game.c(74,32): warning C4048: “char (*)[9]”和“char (*)[11]”数组的下标不同
+  扫雷.vcxproj -> D:\c语言代码程序\game\扫雷\x64\Debug\扫雷.exe
