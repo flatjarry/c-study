@@ -1,0 +1,2 @@
+﻿  test.c
+D:\code\c-study\4_18\4_18\test.c(27,15): error C2296: “%”: 无效，因为左操作数的类型为“double”
