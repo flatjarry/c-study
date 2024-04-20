@@ -281,26 +281,37 @@
 //
 //    return 0;
 //}
+//#include <stdio.h>
+//int main()
+//{
+//    int i = 0;
+//    int input;
+//    int count1 = 0;
+//        int count2 = 0;
+//    for (i = 0; i < 10; i++)
+//    {
+//        scanf("%d", &input);
+//        if (input > 0)
+//        {
+//            count1++;
+//        }
+//        else if (input < 0)
+//        {
+//            count2++;
+//        }
+//    }
+//    printf("positive:%d\n", count1);
+//    printf("negative:%d\n", count2);
+//    return 0;
+//}
 #include <stdio.h>
 int main()
 {
-    int i = 0;
-    int input;
-    int count1 = 0;
-        int count2 = 0;
-    for (i = 0; i < 10; i++)
-    {
-        scanf("%d", &input);
-        if (input > 0)
-        {
-            count1++;
-        }
-        else if (input < 0)
-        {
-            count2++;
-        }
-    }
-    printf("positive:%d\n", count1);
-    printf("negative:%d\n", count2);
+    int distance = 0;
+    scanf("%d", &distance);
+    int time1 = distance / 1;
+    float time2 = distance / 10.0 + 10;
+    char a = time1 > time2 ? 'v' : 'w';
+    printf("%C", a);
     return 0;
 }
