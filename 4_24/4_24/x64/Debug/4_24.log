@@ -1,0 +1,4 @@
+﻿  test.c
+D:\code\c-study\4_24\4_24\test.c(350,1): error C2143: 语法错误: 缺少“;”(在“类型”的前面)
+D:\code\c-study\4_24\4_24\test.c(365,8): error C2059: 语法错误:“数字上的错误后缀”
+D:\code\c-study\4_24\4_24\test.c(366,1): error C2143: 语法错误: 缺少“;”(在“}”的前面)
