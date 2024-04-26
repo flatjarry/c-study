@@ -1,0 +1,4 @@
+﻿  test.c
+D:\code\c-study\4_25\4_25\test.c(50,12): error C2057: 应输入常量表达式
+D:\code\c-study\4_25\4_25\test.c(50,13): error C2466: 不能分配常量大小为 0 的数组
+D:\code\c-study\4_25\4_25\test.c(50,10): error C2133: “s”: 未知的大小
