@@ -1,0 +1,3 @@
+﻿  test.c
+D:\code\c-study\4_28\4_28\test.c(196,11): error C2297: “*”: 无效，因为右操作数的类型为“void”
+D:\code\c-study\4_28\4_28\test.c(198,9): warning C4477: “printf”: 格式字符串“%lld”需要类型“__int64”的参数，但可变参数 1 拥有了类型“void (__cdecl *)(int)”
