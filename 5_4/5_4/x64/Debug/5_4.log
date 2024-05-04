@@ -1,0 +1,8 @@
+﻿  test.c
+D:\code\c-study\5_4\5_4\test.c(287,32): error C2109: 下标要求数组或指针类型
+D:\code\c-study\5_4\5_4\test.c(287,19): warning C4473: “scanf”: 没有为格式字符串传递足够的参数
+  D:\code\c-study\5_4\5_4\test.c(287,19):
+  占位符和其参数预计 1 可变参数，但提供的却是 0 参数
+  D:\code\c-study\5_4\5_4\test.c(287,19):
+  缺失的可变参数 1 为格式字符串“%c”所需
+  
